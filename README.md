@@ -14,11 +14,11 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Name** | Kenneth Onu |
+| **LinkedIn** | [Kenneth-Onu-Cloud-Engineer](https://www.linkedin.com/in/kennethonu/) |
+| **Location** | Abuja, Nigeria |
+| **Background** | Cloud, DevOps & AI Engineer |
+| **Goal** | Become a Senior DevOps/Cloud Engineer by 2028 |
 
 ---
 
