@@ -25,8 +25,11 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
-
+![Task 1 Screenshot-1](screenshots/dev1.png)
+![Task 1 Screenshot-2](screenshots/dev2.png)
+![Task 1 Screenshot-3](screenshots/dev3.png)
+![Task 1 Screenshot-4](screenshots/dev4.png)
+![Task 1 Screenshot-5](screenshots/dev5.png)
 
 Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
