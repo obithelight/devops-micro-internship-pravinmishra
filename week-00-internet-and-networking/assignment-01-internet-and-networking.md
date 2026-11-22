@@ -141,7 +141,8 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+1. Domain Name System (DNS) is a system that translates domain names into IP addresses. Domain names are the human friendly names that we use to access websites on the internet. So DNS makes this possible because without it we would have to memorize long IP addresses of websites.
+2. DNS record to be used is the A-record because the IP Address 52.172.142.222 is a standard IPv4 address and A-records are used to map domain names directly to iPv4 addresses. The number (:3000) is the port number. 
 
 ---
 
