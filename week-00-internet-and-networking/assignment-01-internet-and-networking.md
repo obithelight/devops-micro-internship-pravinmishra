@@ -23,8 +23,6 @@ Take a screenshot of your interaction showing:
 
 ## Screenshot
 
-Save your screenshot in the `screenshots` folder and update the file name below.
-
 ![Task 1 Screenshot-1](screenshots/TASK_00_SS.png)
 ![Task 1 Screenshot-2](screenshots/TASK_00_SS1.png)
 ---
@@ -92,11 +90,8 @@ EpicReads bookstore has two application versions:
 
 ## Diagram Screenshot / Photo
 
-Save your diagram image in the `screenshots` folder and update the file name below.
-
-![Application Architecture Diagram](screenshots/TWO-TIER-ARCHITECTURE.png)
-![Application Architecture Diagram](screenshots/THREE-TIER-ARCHITECTURE.png)
-
+![Application Architecture Diagram-1](screenshots/TWO-TIER-ARCHITECTURE.png)
+![Application Architecture Diagram-2](screenshots/THREE-TIER-ARCHITECTURE.png)
 ---
 
 ## Technologies Used
