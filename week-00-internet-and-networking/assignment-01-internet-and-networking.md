@@ -176,8 +176,6 @@ ls
 
 ## Screenshot
 
-Save your screenshot in the `screenshots` folder and update the file name below.
-
 ![VS Code Setup Screenshot](screenshots/vs-code-environment.png)
 
 ---
