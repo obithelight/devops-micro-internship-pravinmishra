@@ -31,7 +31,7 @@ Save your screenshot in the `screenshots` folder and update the file name below.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+I learned that protocols are simply a set of rules that guide how computer systems communicate with one another. I also learned about ports - a numbered communication endpoint that helps computers direct network traffic to the correct application or service.
 
 ---
 
