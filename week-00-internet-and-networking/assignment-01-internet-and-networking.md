@@ -90,8 +90,8 @@ EpicReads bookstore has two application versions:
 
 ## Diagram Screenshot / Photo
 
-![Application Architecture Diagram-1](screenshots/TWO-TIER-ARCHITECTURE.png)
-![Application Architecture Diagram-2](screenshots/THREE-TIER-ARCHITECTURE.png)
+![Application Architecture Diagram-1](screenshots/two_tier_architecture.png)
+![Application Architecture Diagram-2](screenshots/three_tier_architecture.png)
 ---
 
 ## Technologies Used
