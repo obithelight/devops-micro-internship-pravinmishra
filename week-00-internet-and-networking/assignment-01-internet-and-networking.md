@@ -56,7 +56,13 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+When someone in the USA wants to visit the EpicReads online bookstore hosted in Finland, their computer first uses DNS to find the website's IP address. The IP address identifies the server where the website is hosted, helping the user's request reach the correct destination.
+
+The communication uses TCP/IP, which provides the rules for sending data across the internet. TCP helps ensure that data arrives reliably and in the correct order, while IP handles addressing and routing.
+
+Through packet switching, the website's data is divided into smaller pieces called packets, which travel across different networks from Finland to the USA before being reassembled.
+
+Finally, HTTP allows the browser and server to exchange website information, while HTTPS provides a secure, encrypted connection to protect the communication.
 
 ---
 
