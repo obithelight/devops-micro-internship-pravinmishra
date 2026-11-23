@@ -280,19 +280,19 @@ P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — 
 
 ### What did you find easy?
 
-Add your answer here...
+VSCode setup because I have already set it up prior to now
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+Understanding how domain name systems translate domain names into IP addresses
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+Deepen my devops and cloud infrastructure knowledge and hands-on skills
 
 ---
 
