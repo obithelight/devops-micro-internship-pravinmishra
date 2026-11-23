@@ -232,16 +232,47 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+https://www.linkedin.com/posts/kennethonu_my-devops-learning-journey-from-the-basics-ugcPost-7530451859782701056-4wtO/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn21aQBinJ7QMbtZ2wT42xIX4-2T8Nmr7k
 ```
 
 ---
 
 ## LinkedIn Post Backup Copy
 
-Paste the full text of your LinkedIn post here:
+🚀 MY DEVOPS LEARNING JOURNEY: FROM THE BASICS TO HANDS-ON PRACTICE
+As I continue my journey into the world of DevOps, I've been building my understanding of essential IT concepts and developing practical technical skills.
 
-Add your post content here...
+Here are some of the key things I've explored and practised so far:
+
+1. CHATGPT 🤖
+Explored ChatGPT as an AI-powered assistant for learning, understanding technical concepts, researching solutions, and improving productivity.
+
+2. INTERNET & NETWORKING 🌐
+Learned the fundamentals of internet communication, including:
+How data travels across networks through packet switching.
+The role of IP addresses in identifying devices.
+How TCP ensures reliable data delivery.
+The difference between HTTP and HTTPS.
+The importance of networking protocols in connecting systems and services.
+
+3. APPLICATION ARCHITECTURE 🏗️
+Explored application architecture using the EpicReads bookstore scenario.
+Learned about application components, frontend and backend communication, and how different application architectures are structured.
+Also started creating application architecture diagrams using Draw.io.
+
+4. DOMAIN NAME SYSTEM (DNS) 🔗
+Explored the fundamentals of domain names and DNS, including how domain names are associated with IP addresses and how DNS helps users access websites without memorising numerical IP addresses.
+
+5. VISUAL STUDIO CODE SETUP 💻
+Successfully set up my development environment using Visual Studio Code.
+Opened the integrated terminal.
+Executed a basic terminal command: dir.
+Confirmed that commands can run directly inside VS Code.
+
+MY BIGGEST TAKEAWAY
+I'm learning that DevOps is not just about knowing tools. It's about understanding how systems communicate, how applications are structured, and how technology works together. Every small practical exercise is another step towards becoming a better problem-solver and a competent DevOps professional. Pravin Mishra Anjana Muthunayake #DMIByPravinMishra #AgenticAI #DevOps
+
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 4 by Pravin Mishra. Want to build practical DevOps skills through hands-on assignments and projects? Join the DMI Cohort 4 waiting list: https://lnkd.in/esyzq-ed
 
 ---
 
